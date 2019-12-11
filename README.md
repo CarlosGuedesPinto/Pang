@@ -22,4 +22,7 @@ This project arose from the curricular unit of Graphic Animation belonging to th
 
 
 
-january 2019
+### Authors
+* **Bernardo Caiano** - [BernardoCaiano](https://github.com/BernardoCaiano)
+* **Carlos Guedes** - [CarlosGuedesPinto](https://github.com/CarlosGuedesPinto)
+* **Rodrigo Queirós** - [RodrigoQueiros](https://github.com/RodrigoQueiros)
